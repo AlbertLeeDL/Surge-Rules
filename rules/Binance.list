@@ -1,0 +1,12 @@
+# NAME: Binance
+# TYPE: Surge Rule Set
+# UPDATED: 2026-08-23
+# PURPOSE: Binance web, app, API and static assets
+# NOTE: Use a stable, manually selected policy that complies with the account region.
+
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
