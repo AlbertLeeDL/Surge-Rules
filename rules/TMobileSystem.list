@@ -1,0 +1,10 @@
+# NAME: TMobileSystem
+# TYPE: Surge Rule Set
+# UPDATED: 2026-08-23
+# PURPOSE: T-Mobile Wi-Fi Calling, handset authentication and visual voicemail
+# POLICY: DIRECT recommended
+# SOURCE: T-Mobile Wi-Fi Calling corporate network requirements
+
+DOMAIN,crl.t-mobile.com
+IP-CIDR,208.54.0.0/16,no-resolve
+IP-CIDR,66.94.0.0/19,no-resolve
