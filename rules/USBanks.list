@@ -1,0 +1,21 @@
+# NAME: USBanks
+# TYPE: Surge Rule Set
+# UPDATED: 2026-08-23
+# PURPOSE: Capital One, American Express and Bank of America
+# NOTE: Shared CDN domains are intentionally omitted to avoid overmatching.
+
+# Capital One
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,capitalonebank.com
+DOMAIN-SUFFIX,capitalonecdn.com
+
+# American Express
+DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-SUFFIX,amex.com
+DOMAIN-SUFFIX,aexp.com
+DOMAIN-SUFFIX,aexp-static.com
+
+# Bank of America
+DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,bofa.com
+DOMAIN-SUFFIX,bofaml.com
