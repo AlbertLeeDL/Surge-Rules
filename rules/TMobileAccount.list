@@ -1,0 +1,9 @@
+# NAME: TMobileAccount
+# TYPE: Surge Rule Set
+# UPDATED: 2026-08-23
+# PURPOSE: T-Mobile account website and app services
+# NOTE: Keep separate from Wi-Fi Calling/IMS system traffic.
+
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,tmobile.com
+DOMAIN-SUFFIX,t-mobilemoney.com
