@@ -1,0 +1,9 @@
+# NAME: BOCHK
+# TYPE: Surge Rule Set
+# UPDATED: 2026-08-23
+# PURPOSE: Bank of China (Hong Kong)
+# NOTE: Kept separate from the broader Bank of China rule set.
+
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochk.com.hk
+DOMAIN-SUFFIX,bochkonline.com
