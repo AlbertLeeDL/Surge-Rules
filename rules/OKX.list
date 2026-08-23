@@ -1,0 +1,9 @@
+# NAME: OKX
+# TYPE: Surge Rule Set
+# UPDATED: 2026-08-23
+# PURPOSE: OKX web, app, REST/WebSocket API and OKLink
+# NOTE: okx.com covers openapi.okx.com, ws.okx.com and regional subdomains.
+
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
