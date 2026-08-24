@@ -1,0 +1,9 @@
+# NAME: TradingView
+# AUTHOR: AlbertLeeDL
+# REPO: https://github.com/AlbertLeeDL/Surge-Rules
+# UPDATED: 2026-08-24
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,tradingview-widget.com
