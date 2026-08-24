@@ -1,6 +1,6 @@
 # Surge-Rules
 
-个人使用的 Surge 规则集，覆盖 PT、加密货币交易所、境外券商、境外银行和 T-Mobile。
+个人使用的 Surge 规则集，覆盖 PT、加密货币交易所、TradingView、境外券商、境外银行和 T-Mobile。
 
 ## 规则集
 
@@ -11,6 +11,7 @@
 | `rules/OKX.list` | `加密货币` | OKX 网页、App 与 API |
 | `rules/Futu.list` | `金融-香港` | 富途及富途香港 |
 | `rules/IBKR.list` | `金融-美国` | Interactive Brokers |
+| `rules/TradingView.list` | `金融-美国` | TradingView 网页、App、API 与行情连接 |
 | `rules/BOCHK.list` | `金融-香港` | 中国银行（香港） |
 | `rules/USBanks.list` | `金融-美国` | Capital One、American Express、Bank of America |
 | `rules/TMobileAccount.list` | `美国手机卡` | T-Mobile 账户网页与 App |
@@ -37,6 +38,7 @@ RULE-SET,https://raw.githubusercontent.com/AlbertLeeDL/Surge-Rules/main/rules/BO
 
 # 美国金融
 RULE-SET,https://raw.githubusercontent.com/AlbertLeeDL/Surge-Rules/main/rules/IBKR.list,金融-美国
+RULE-SET,https://raw.githubusercontent.com/AlbertLeeDL/Surge-Rules/main/rules/TradingView.list,金融-美国
 RULE-SET,https://raw.githubusercontent.com/AlbertLeeDL/Surge-Rules/main/rules/USBanks.list,金融-美国
 
 # T-Mobile 账户网站与 App
