@@ -1,0 +1,46 @@
+# MoviePilot metadata and auxiliary services for Surge
+# Format: Surge Rule Set (no policy name in this file)
+# Updated: 2026-10-07
+
+# Core metadata: TMDB / TVDB / Fanart
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,fanart.tv
+
+# IMDb identification and artwork
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,media-imdb.com
+
+# Anime metadata
+DOMAIN-SUFFIX,anilist.co
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,trace.moe
+
+# Music metadata and artwork
+DOMAIN-SUFFIX,musicbrainz.org
+DOMAIN-SUFFIX,coverartarchive.org
+DOMAIN-SUFFIX,acoustid.org
+DOMAIN-SUFFIX,listenbrainz.org
+DOMAIN-SUFFIX,theaudiodb.com
+DOMAIN-SUFFIX,lrclib.net
+
+# External media information
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,wikimedia.org
+
+# MoviePilot updates, resources and plugin market
+DOMAIN-SUFFIX,movie-pilot.org
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubapis.com
+DOMAIN-SUFFIX,ghproxy.com
+
+# Optional external integrations commonly used by MoviePilot
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,slack.com
+
+# Intentionally excluded: douban.com and doubanio.com (keep DIRECT in China)
